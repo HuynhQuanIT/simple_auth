@@ -29,7 +29,7 @@ Server mặc định chạy ở: [http://localhost:3001](http://localhost:3001)
 
 #### Các chức năng:
 - Truy cập `http://localhost:3000/`  
-![Welcome! Visit first public resource.](img\1.png)
+![Welcome! Visit first public resource.](img/1.png)
 ![Welcome! Visit first public resource.](img\2.png)
 - Truy cập `http://localhost:3000/public`: Trang public, không cần đăng nhập.
 ![Welcome! Visit second public resource.](img\8.png)
